@@ -1,0 +1,840 @@
+{
+"Reasons":[
+			{
+				"Id": "152",
+				"Name": "Anúncio de Compra"
+			},
+			{
+				"Id": "161",
+				"Name": "Anúncio Indevido"
+			},
+			{
+				"Id": "153",
+				"Name": "Cadastro em nome de terceiro"
+			},
+			{
+				"Id": "169",
+				"Name": "Cadastro fora das Políticas WM"
+			},
+			{
+				"Id": "160",
+				"Name": "Campanha"
+			},
+			{
+				"Id": "197",
+				"Name": "Canc. NFe no mês de emissão"
+			},
+			{
+				"Id": "219",
+				"Name": "Chargeback"
+			},
+			{
+				"Id": "111",
+				"Name": "Desconto de ISS"
+			},
+			{
+				"Id": "15",
+				"Name": "Desistência do anúncio"
+			},
+			{
+				"Id": "162",
+				"Name": "Duplicidade de Anúncio"
+			},
+			{
+				"Id": "17",
+				"Name": "Duplicidade de pagamento"
+			},
+			{
+				"Id": "242",
+				"Name": "Falha - Faturamento"
+			},
+			{
+				"Id": "241",
+				"Name": "Falha - Formalização"
+			},
+			{
+				"Id": "243",
+				"Name": "Falha - Pagamento"
+			},
+			{
+				"Id": "240",
+				"Name": "Falha Operacional - Negociação"
+			},
+			{
+				"Id": "42",
+				"Name": "Fraude"
+			},
+			{
+				"Id": "47",
+				"Name": "Irregularidade"
+			},
+			{
+				"Id": "48",
+				"Name": "Isenção de taxa de adesão"
+			},
+			{
+				"Id": "211",
+				"Name": "Pagamento a maior"
+			},
+			{
+				"Id": "244",
+				"Name": "Recuperação de cobrança"
+			},
+			{
+				"Id": "220",
+				"Name": "Ressarcimento de Lead"
+			},
+			{
+				"Id": "163",
+				"Name": "Teste"
+			}
+		],
+  "PaymentMethod":[
+  [
+			{
+				"Id": "1",
+				"CodName": "654",
+				"Name": "Banco A.J.Renner S.A."
+			},
+			{
+				"Id": "2",
+				"CodName": "246",
+				"Name": "Banco ABC Brasil S.A."
+			},
+			{
+				"Id": "3",
+				"CodName": "75",
+				"Name": "Banco ABN AMRO S.A."
+			},
+			{
+				"Id": "4",
+				"CodName": "121",
+				"Name": "Banco Agiplan S.A."
+			},
+			{
+				"Id": "5",
+				"CodName": "25",
+				"Name": "Banco Alfa S.A."
+			},
+			{
+				"Id": "6",
+				"CodName": "641",
+				"Name": "Banco Alvorada S.A."
+			},
+			{
+				"Id": "7",
+				"CodName": "65",
+				"Name": "Banco Andbank (Brasil) S.A."
+			},
+			{
+				"Id": "8",
+				"CodName": "213",
+				"Name": "Banco Arbi S.A."
+			},
+			{
+				"Id": "9",
+				"CodName": "24",
+				"Name": "Banco BANDEPE S.A."
+			},
+			{
+				"Id": "10",
+				"CodName": "107",
+				"Name": "Banco BBM S.A."
+			},
+			{
+				"Id": "11",
+				"CodName": "96",
+				"Name": "Banco BM&FBOVESPA de Serviços de Liquidação e Custódia S.A"
+			},
+			{
+				"Id": "12",
+				"CodName": "318",
+				"Name": "Banco BMG S.A."
+			},
+			{
+				"Id": "13",
+				"CodName": "752",
+				"Name": "Banco BNP Paribas Brasil S.A."
+			},
+			{
+				"Id": "14",
+				"CodName": "248",
+				"Name": "Banco Boavista Interatlântico S.A."
+			},
+			{
+				"Id": "15",
+				"CodName": "63",
+				"Name": "Banco Bradescard S.A."
+			},
+			{
+				"Id": "16",
+				"CodName": "36",
+				"Name": "Banco Bradesco BBI S.A."
+			},
+			{
+				"Id": "17",
+				"CodName": "122",
+				"Name": "Banco Bradesco BERJ S.A."
+			},
+			{
+				"Id": "18",
+				"CodName": "204",
+				"Name": "Banco Bradesco Cartões S.A."
+			},
+			{
+				"Id": "19",
+				"CodName": "394",
+				"Name": "Banco Bradesco Financiamentos S.A."
+			},
+			{
+				"Id": "20",
+				"CodName": "237",
+				"Name": "Banco Bradesco S.A."
+			},
+			{
+				"Id": "21",
+				"CodName": "218",
+				"Name": "Banco BS2 S.A."
+			},
+			{
+				"Id": "22",
+				"CodName": "208",
+				"Name": "Banco BTG Pactual S.A."
+			},
+			{
+				"Id": "23",
+				"CodName": "263",
+				"Name": "Banco Cacique S.A."
+			},
+			{
+				"Id": "24",
+				"CodName": "473",
+				"Name": "Banco Caixa Geral - Brasil S.A."
+			},
+			{
+				"Id": "25",
+				"CodName": "412",
+				"Name": "Banco Capital S.A."
+			},
+			{
+				"Id": "26",
+				"CodName": "40",
+				"Name": "Banco Cargill S.A."
+			},
+			{
+				"Id": "27",
+				"CodName": "266",
+				"Name": "Banco Cédula S.A."
+			},
+			{
+				"Id": "28",
+				"CodName": "739",
+				"Name": "Banco Cetelem S.A."
+			},
+			{
+				"Id": "29",
+				"CodName": "233",
+				"Name": "Banco Cifra S.A."
+			},
+			{
+				"Id": "30",
+				"CodName": "745",
+				"Name": "Banco Citibank S.A."
+			},
+			{
+				"Id": "31",
+				"CodName": "241",
+				"Name": "Banco Clássico S.A."
+			},
+			{
+				"Id": "32",
+				"CodName": "95",
+				"Name": "Banco Confidence de Câmbio S.A."
+			},
+			{
+				"Id": "33",
+				"CodName": "756",
+				"Name": "Banco Cooperativo do Brasil S.A. - BANCOOB"
+			},
+			{
+				"Id": "34",
+				"CodName": "748",
+				"Name": "Banco Cooperativo Sicredi S.A."
+			},
+			{
+				"Id": "35",
+				"CodName": "222",
+				"Name": "Banco Credit Agricole Brasil S.A."
+			},
+			{
+				"Id": "36",
+				"CodName": "505",
+				"Name": "Banco Credit Suisse (Brasil) S.A."
+			},
+			{
+				"Id": "37",
+				"CodName": "69",
+				"Name": "Banco Crefisa S.A."
+			},
+			{
+				"Id": "38",
+				"CodName": "3",
+				"Name": "Banco da Amazônia S.A."
+			},
+			{
+				"Id": "39",
+				"CodName": "83",
+				"Name": "Banco da China Brasil S.A."
+			},
+			{
+				"Id": "40",
+				"CodName": "707",
+				"Name": "Banco Daycoval S.A."
+			},
+			{
+				"Id": "41",
+				"CodName": "300",
+				"Name": "Banco de La Nacion Argentina"
+			},
+			{
+				"Id": "42",
+				"CodName": "495",
+				"Name": "Banco de La Provincia de Buenos Aires"
+			},
+			{
+				"Id": "43",
+				"CodName": "494",
+				"Name": "Banco de La Republica Oriental del Uruguay"
+			},
+			{
+				"Id": "44",
+				"CodName": "456",
+				"Name": "Banco de Tokyo-Mitsubishi UFJ Brasil S.A."
+			},
+			{
+				"Id": "45",
+				"CodName": "1",
+				"Name": "Banco do Brasil S.A."
+			},
+			{
+				"Id": "46",
+				"CodName": "47",
+				"Name": "Banco do Estado de Sergipe S.A."
+			},
+			{
+				"Id": "47",
+				"CodName": "37",
+				"Name": "Banco do Estado do Pará S.A."
+			},
+			{
+				"Id": "48",
+				"CodName": "41",
+				"Name": "Banco do Estado do Rio Grande do Sul S.A."
+			},
+			{
+				"Id": "49",
+				"CodName": "4",
+				"Name": "Banco do Nordeste do Brasil S.A."
+			},
+			{
+				"Id": "50",
+				"CodName": "265",
+				"Name": "Banco Fator S.A."
+			},
+			{
+				"Id": "51",
+				"CodName": "224",
+				"Name": "Banco Fibra S.A."
+			},
+			{
+				"Id": "52",
+				"CodName": "626",
+				"Name": "Banco Ficsa S.A."
+			},
+			{
+				"Id": "53",
+				"CodName": "94",
+				"Name": "Banco Finaxis S.A."
+			},
+			{
+				"Id": "54",
+				"CodName": "612",
+				"Name": "Banco Guanabara S.A."
+			},
+			{
+				"Id": "55",
+				"CodName": "12",
+				"Name": "Banco INBURSA de Investimentos S.A."
+			},
+			{
+				"Id": "56",
+				"CodName": "604",
+				"Name": "Banco Industrial do Brasil S.A."
+			},
+			{
+				"Id": "57",
+				"CodName": "653",
+				"Name": "Banco Indusval S.A."
+			},
+			{
+				"Id": "58",
+				"CodName": "77",
+				"Name": "Banco Inter S.A."
+			},
+			{
+				"Id": "59",
+				"CodName": "630",
+				"Name": "Banco Intercap S.A."
+			},
+			{
+				"Id": "60",
+				"CodName": "249",
+				"Name": "Banco Investcred Unibanco S.A."
+			},
+			{
+				"Id": "61",
+				"CodName": "184",
+				"Name": "Banco Itaú BBA S.A."
+			},
+			{
+				"Id": "62",
+				"CodName": "29",
+				"Name": "Banco Itaú Consignado S.A."
+			},
+			{
+				"Id": "63",
+				"CodName": "479",
+				"Name": "Banco ItauBank S.A"
+			},
+			{
+				"Id": "64",
+				"CodName": "376",
+				"Name": "Banco J. P. Morgan S.A."
+			},
+			{
+				"Id": "65",
+				"CodName": "74",
+				"Name": "Banco J. Safra S.A."
+			},
+			{
+				"Id": "66",
+				"CodName": "217",
+				"Name": "Banco John Deere S.A."
+			},
+			{
+				"Id": "67",
+				"CodName": "76",
+				"Name": "Banco KDB S.A."
+			},
+			{
+				"Id": "68",
+				"CodName": "757",
+				"Name": "Banco KEB HANA do Brasil S.A."
+			},
+			{
+				"Id": "69",
+				"CodName": "600",
+				"Name": "Banco Luso Brasileiro S.A."
+			},
+			{
+				"Id": "70",
+				"CodName": "243",
+				"Name": "Banco Máxima S.A."
+			},
+			{
+				"Id": "71",
+				"CodName": "720",
+				"Name": "Banco Maxinvest S.A."
+			},
+			{
+				"Id": "72",
+				"CodName": "389",
+				"Name": "Banco Mercantil do Brasil S.A."
+			},
+			{
+				"Id": "73",
+				"CodName": "370",
+				"Name": "Banco Mizuho do Brasil S.A."
+			},
+			{
+				"Id": "74",
+				"CodName": "746",
+				"Name": "Banco Modal S.A."
+			},
+			{
+				"Id": "75",
+				"CodName": "66",
+				"Name": "Banco Morgan Stanley S.A."
+			},
+			{
+				"Id": "76",
+				"CodName": "7",
+				"Name": "Banco Nacional de Desenvolvimento Econômico e Social"
+			},
+			{
+				"Id": "77",
+				"CodName": "735",
+				"Name": "Banco Neon S.A."
+			},
+			{
+				"Id": "78",
+				"CodName": "169",
+				"Name": "Banco Olé Bonsucesso Consignado S.A."
+			},
+			{
+				"Id": "79",
+				"CodName": "79",
+				"Name": "Banco Original do Agronegócio S.A."
+			},
+			{
+				"Id": "80",
+				"CodName": "212",
+				"Name": "Banco Original S.A."
+			},
+			{
+				"Id": "81",
+				"CodName": "712",
+				"Name": "Banco Ourinvest S.A."
+			},
+			{
+				"Id": "82",
+				"CodName": "623",
+				"Name": "Banco PAN S.A."
+			},
+			{
+				"Id": "83",
+				"CodName": "611",
+				"Name": "Banco Paulista S.A."
+			},
+			{
+				"Id": "84",
+				"CodName": "613",
+				"Name": "Banco Pecúnia S.A."
+			},
+			{
+				"Id": "85",
+				"CodName": "643",
+				"Name": "Banco Pine S.A."
+			},
+			{
+				"Id": "86",
+				"CodName": "658",
+				"Name": "Banco Porto Real de Investimentos S.A."
+			},
+			{
+				"Id": "87",
+				"CodName": "747",
+				"Name": "Banco Rabobank International Brasil S.A."
+			},
+			{
+				"Id": "88",
+				"CodName": "633",
+				"Name": "Banco Rendimento S.A."
+			},
+			{
+				"Id": "89",
+				"CodName": "741",
+				"Name": "Banco Ribeirão Preto S.A."
+			},
+			{
+				"Id": "90",
+				"CodName": "120",
+				"Name": "Banco Rodobens S.A."
+			},
+			{
+				"Id": "91",
+				"CodName": "422",
+				"Name": "Banco Safra S.A."
+			},
+			{
+				"Id": "92",
+				"CodName": "33",
+				"Name": "Banco Santander (Brasil) S.A."
+			},
+			{
+				"Id": "93",
+				"CodName": "743",
+				"Name": "Banco Semear S.A."
+			},
+			{
+				"Id": "94",
+				"CodName": "754",
+				"Name": "Banco Sistema S.A."
+			},
+			{
+				"Id": "95",
+				"CodName": "366",
+				"Name": "Banco Société Générale Brasil S.A."
+			},
+			{
+				"Id": "96",
+				"CodName": "637",
+				"Name": "Banco Sofisa S.A."
+			},
+			{
+				"Id": "97",
+				"CodName": "464",
+				"Name": "Banco Sumitomo Mitsui Brasileiro S.A."
+			},
+			{
+				"Id": "98",
+				"CodName": "82",
+				"Name": "Banco Topázio S.A."
+			},
+			{
+				"Id": "99",
+				"CodName": "634",
+				"Name": "Banco Triângulo S.A."
+			},
+			{
+				"Id": "100",
+				"CodName": "18",
+				"Name": "Banco Tricury S.A."
+			},
+			{
+				"Id": "101",
+				"CodName": "655",
+				"Name": "Banco Votorantim S.A."
+			},
+			{
+				"Id": "102",
+				"CodName": "610",
+				"Name": "Banco VR S.A."
+			},
+			{
+				"Id": "103",
+				"CodName": "119",
+				"Name": "Banco Western Union do Brasil S.A."
+			},
+			{
+				"Id": "104",
+				"CodName": "124",
+				"Name": "Banco Woori Bank do Brasil S.A."
+			},
+			{
+				"Id": "105",
+				"CodName": "21",
+				"Name": "BANESTES S.A. Banco do Estado do Espírito Santo"
+			},
+			{
+				"Id": "106",
+				"CodName": "719",
+				"Name": "Banif-Banco Internacional do Funchal (Brasil)S.A."
+			},
+			{
+				"Id": "107",
+				"CodName": "755",
+				"Name": "Bank of America Merrill Lynch Banco Múltiplo S.A."
+			},
+			{
+				"Id": "108",
+				"CodName": "81",
+				"Name": "BBN Banco Brasileiro de Negócios S.A."
+			},
+			{
+				"Id": "109",
+				"CodName": "250",
+				"Name": "BCV - Banco de Crédito e Varejo S.A."
+			},
+			{
+				"Id": "110",
+				"CodName": "144",
+				"Name": "BEXS Banco de Câmbio S.A."
+			},
+			{
+				"Id": "111",
+				"CodName": "17",
+				"Name": "BNY Mellon Banco S.A."
+			},
+			{
+				"Id": "112",
+				"CodName": "126",
+				"Name": "BR Partners Banco de Investimento S.A."
+			},
+			{
+				"Id": "113",
+				"CodName": "125",
+				"Name": "Brasil Plural S.A. - Banco Múltiplo"
+			},
+			{
+				"Id": "114",
+				"CodName": "70",
+				"Name": "BRB - Banco de Brasília S.A."
+			},
+			{
+				"Id": "115",
+				"CodName": "92",
+				"Name": "Brickell S.A. Crédito, Financiamento e Investimento"
+			},
+			{
+				"Id": "116",
+				"CodName": "104",
+				"Name": "Caixa Econômica Federal"
+			},
+			{
+				"Id": "117",
+				"CodName": "114-7",
+				"Name": "Central das Cooperativas de Economia e Crédito Mútuo do Estado do Espírito Santo Ltda."
+			},
+			{
+				"Id": "118",
+				"CodName": "320",
+				"Name": "China Construction Bank (Brasil) Banco Múltiplo S.A."
+			},
+			{
+				"Id": "119",
+				"CodName": "477",
+				"Name": "Citibank N.A."
+			},
+			{
+				"Id": "120",
+				"CodName": "163",
+				"Name": "Commerzbank Brasil S.A. - Banco Múltiplo"
+			},
+			{
+				"Id": "121",
+				"CodName": "136",
+				"Name": "CONFEDERACAO NACIONAL DAS COOPERATIVAS CENTRAIS UNICREDS"
+			},
+			{
+				"Id": "122",
+				"CodName": "97",
+				"Name": "Cooperativa Central de Crédito Noroeste Brasileiro Ltda."
+			},
+			{
+				"Id": "123",
+				"CodName": "085-x",
+				"Name": "Cooperativa Central de Crédito Urbano-CECRED"
+			},
+			{
+				"Id": "124",
+				"CodName": "090-2",
+				"Name": "Cooperativa Central de Economia e Crédito Mutuo - SICOOB UNIMAIS"
+			},
+			{
+				"Id": "125",
+				"CodName": "087-6",
+				"Name": "Cooperativa Central de Economia e Crédito Mútuo das Unicreds de Santa Catarina e Paraná"
+			},
+			{
+				"Id": "126",
+				"CodName": "089-2",
+				"Name": "Cooperativa de Crédito Rural da Região da Mogiana"
+			},
+			{
+				"Id": "127",
+				"CodName": "098-1",
+				"Name": "CREDIALIANÇA COOPERATIVA DE CRÉDITO RURAL"
+			},
+			{
+				"Id": "128",
+				"CodName": "487",
+				"Name": "Deutsche Bank S.A. - Banco Alemão"
+			},
+			{
+				"Id": "129",
+				"CodName": "64",
+				"Name": "Goldman Sachs do Brasil Banco Múltiplo S.A."
+			},
+			{
+				"Id": "130",
+				"CodName": "135",
+				"Name": "Gradual Corretora de Câmbio,Títulos e Valores Mobiliários S.A."
+			},
+			{
+				"Id": "131",
+				"CodName": "78",
+				"Name": "Haitong Banco de Investimento do Brasil S.A."
+			},
+			{
+				"Id": "132",
+				"CodName": "62",
+				"Name": "Hipercard Banco Múltiplo S.A."
+			},
+			{
+				"Id": "133",
+				"CodName": "132",
+				"Name": "ICBC do Brasil Banco Múltiplo S.A."
+			},
+			{
+				"Id": "134",
+				"CodName": "492",
+				"Name": "ING Bank N.V."
+			},
+			{
+				"Id": "135",
+				"CodName": "139",
+				"Name": "Intesa Sanpaolo Brasil S.A. - Banco Múltiplo"
+			},
+			{
+				"Id": "136",
+				"CodName": "652",
+				"Name": "Itaú Unibanco Holding S.A."
+			},
+			{
+				"Id": "137",
+				"CodName": "341",
+				"Name": "Itaú Unibanco S.A."
+			},
+			{
+				"Id": "138",
+				"CodName": "488",
+				"Name": "JPMorgan Chase Bank, National Association"
+			},
+			{
+				"Id": "139",
+				"CodName": "399",
+				"Name": "Kirton Bank S.A. - Banco Múltiplo"
+			},
+			{
+				"Id": "140",
+				"CodName": "128",
+				"Name": "MS Bank S.A. Banco de Câmbio"
+			},
+			{
+				"Id": "141",
+				"CodName": "14",
+				"Name": "Natixis Brasil S.A. Banco Múltiplo"
+			},
+			{
+				"Id": "142",
+				"CodName": "753",
+				"Name": "Novo Banco Continental S.A. - Banco Múltiplo"
+			},
+			{
+				"Id": "143",
+				"CodName": "086-8",
+				"Name": "OBOE Crédito Financiamento e Investimento S.A."
+			},
+			{
+				"Id": "144",
+				"CodName": "254",
+				"Name": "Paraná Banco S.A."
+			},
+			{
+				"Id": "145",
+				"CodName": "751",
+				"Name": "Scotiabank Brasil S.A. Banco Múltiplo"
+			},
+			{
+				"Id": "146",
+				"CodName": "118",
+				"Name": "Standard Chartered Bank (Brasil) S/A–Bco Invest."
+			},
+			{
+				"Id": "147",
+				"CodName": "129",
+				"Name": "UBS Brasil Banco de Investimento S.A."
+			},
+			{
+				"Id": "148",
+				"CodName": "091-4",
+				"Name": "Unicred Central do Rio Grande do Sul"
+			},
+			{
+				"Id": "149",
+				"CodName": "84",
+				"Name": "Uniprime Norte do Paraná - Coop de Economia e Crédito Mútuo dos Médicos, Profissionais das Ciências"
+			}
+  ]
+}
