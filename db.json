@@ -155,91 +155,91 @@
   [
 			{
 				"Id": "152",
-				"Name": "Anúncio de Compra"
+				"Description": "Anúncio de Compra"
 			},
 			{
 				"Id": "161",
-				"Name": "Anúncio Indevido"
+				"Description": "Anúncio Indevido"
 			},
 			{
 				"Id": "153",
-				"Name": "Cadastro em nome de terceiro"
+				"Description": "Cadastro em nome de terceiro"
 			},
 			{
 				"Id": "169",
-				"Name": "Cadastro fora das Políticas WM"
+				"Description": "Cadastro fora das Políticas WM"
 			},
 			{
 				"Id": "160",
-				"Name": "Campanha"
+				"Description": "Campanha"
 			},
 			{
 				"Id": "197",
-				"Name": "Canc. NFe no mês de emissão"
+				"Description": "Canc. NFe no mês de emissão"
 			},
 			{
 				"Id": "219",
-				"Name": "Chargeback"
+				"Description": "Chargeback"
 			},
 			{
 				"Id": "111",
-				"Name": "Desconto de ISS"
+				"Description": "Desconto de ISS"
 			},
 			{
 				"Id": "15",
-				"Name": "Desistência do anúncio"
+				"Description": "Desistência do anúncio"
 			},
 			{
 				"Id": "162",
-				"Name": "Duplicidade de Anúncio"
+				"Description": "Duplicidade de Anúncio"
 			},
 			{
 				"Id": "17",
-				"Name": "Duplicidade de pagamento"
+				"Description": "Duplicidade de pagamento"
 			},
 			{
 				"Id": "242",
-				"Name": "Falha - Faturamento"
+				"Description": "Falha - Faturamento"
 			},
 			{
 				"Id": "241",
-				"Name": "Falha - Formalização"
+				"Description": "Falha - Formalização"
 			},
 			{
 				"Id": "243",
-				"Name": "Falha - Pagamento"
+				"Description": "Falha - Pagamento"
 			},
 			{
 				"Id": "240",
-				"Name": "Falha Operacional - Negociação"
+				"Description": "Falha Operacional - Negociação"
 			},
 			{
 				"Id": "42",
-				"Name": "Fraude"
+				"Description": "Fraude"
 			},
 			{
 				"Id": "47",
-				"Name": "Irregularidade"
+				"Description": "Irregularidade"
 			},
 			{
 				"Id": "48",
-				"Name": "Isenção de taxa de adesão"
+				"Description": "Isenção de taxa de adesão"
 			},
 			{
 				"Id": "211",
-				"Name": "Pagamento a maior"
+				"Description": "Pagamento a maior"
 			},
 			{
 				"Id": "244",
-				"Name": "Recuperação de cobrança"
+				"Description": "Recuperação de cobrança"
 			},
 			{
 				"Id": "220",
-				"Name": "Ressarcimento de Lead"
+				"Description": "Ressarcimento de Lead"
 			},
 			{
 				"Id": "163",
-				"Name": "Teste"
+				"Description": "Teste"
 			}
 		]
 }
