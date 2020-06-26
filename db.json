@@ -246,29 +246,37 @@
 		[
 				{
 					"Id": "21343",
-					"Name": "XPTO-20200518-456215.jpg",
-					"Type": "jpg",
+					"name": "XPTO-20200518-456215.jpg",
+					"type": "jpg",
+					"lastModifiedDate": "2020-06-12T20:21:00",
+					"size": "458",
 					"DateUpload": "2020-06-12T20:21:00",
 					"IdCharge": "3416085"
 				},
 				{
 					"Id": "32432",
 					"Name": "FOTOOriginal-20200518-32432.jpg",
-					"Type": "jpg",
+					"type": "jpg",
+					"lastModifiedDate": "2020-06-12T20:21:00",
+					"size": "458",
 					"DateUpload": "2020-06-23T19:40:00",
 					"IdCharge": "3416085"
 				},
 				{
 					"Id": "0909",
 					"Name": "FOTO01-20200518-456215.jpg",
-					"Type": "jpg",
+					"type": "jpg",
+					"lastModifiedDate": "2020-06-12T20:21:00",
+					"size": "458",
 					"DateUpload": "2020-06-25T09:40:00",
 					"IdCharge": "3413948"
 				},
 				{
 					"Id": "65756",
 					"Name": "DocumentoTela-20200518-456215.jpg",
-					"Type": "jpg",
+					"type": "jpg",
+					"lastModifiedDate": "2020-06-12T20:21:00",
+					"size": "458",					
 					"DateUpload": "2020-06-24T15:14:00",
 					"IdCharge": "3413948"
 				}
