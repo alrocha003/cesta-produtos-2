@@ -255,7 +255,7 @@
 				},
 				{
 					"Id": "32432",
-					"Name": "FOTOOriginal-20200518-32432.jpg",
+					"name": "FOTOOriginal-20200518-32432.jpg",
 					"type": "jpg",
 					"lastModifiedDate": "2020-06-12T20:21:00",
 					"size": "458",
@@ -264,7 +264,7 @@
 				},
 				{
 					"Id": "0909",
-					"Name": "FOTO01-20200518-456215.jpg",
+					"name": "FOTO01-20200518-456215.jpg",
 					"type": "jpg",
 					"lastModifiedDate": "2020-06-12T20:21:00",
 					"size": "458",
@@ -273,7 +273,7 @@
 				},
 				{
 					"Id": "65756",
-					"Name": "DocumentoTela-20200518-456215.jpg",
+					"name": "DocumentoTela-20200518-456215.jpg",
 					"type": "jpg",
 					"lastModifiedDate": "2020-06-12T20:21:00",
 					"size": "458",					
